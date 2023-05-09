@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+    <userSettings>
+        <AgOpenGPS.Properties.Settings>
+            <setting name="setDisplay_camPitch" serializeAs="String">
+                <value>-62</value>
+            </setting>
+            <setting name="setWindow_Location" serializeAs="String">
+                <value>30, 30</value>
+            </setting>
+            <setting name="setWindow_Size" serializeAs="String">
+                <value>1005, 730</value>
+            </setting>
+            <setting name="setWindow_Maximized" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setWindow_Minimized" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setMenu_isMetric" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setMenu_isGridOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setMenu_isLightbarOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setF_CurrentDir" serializeAs="String">
+                <value>Apr19 12_40</value>
+            </setting>
+            <setting name="setF_isWorkSwitchEnabled" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setIMU_rollZero" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setAS_lowSteerPWM" serializeAs="String">
+                <value>65</value>
+            </setting>
+            <setting name="setAS_wasOffset" serializeAs="String">
+                <value>1648</value>
+            </setting>
+            <setting name="setF_UserTotalArea" serializeAs="String">
+                <value>1879.3717681655726</value>
+            </setting>
+            <setting name="setAS_minSteerPWM" serializeAs="String">
+                <value>18</value>
+            </setting>
+            <setting name="setAS_highSteerPWM" serializeAs="String">
+                <value>195</value>
+            </setting>
+            <setting name="setMenu_isSideGuideLines" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setAS_countsPerDegree" serializeAs="String">
+                <value>93</value>
+            </setting>
+            <setting name="setMenu_isPureOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setMenu_isSimulatorOn" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setMenu_isSkyOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setF_culture" serializeAs="String">
+                <value>en</value>
+            </setting>
+            <setting name="setGPS_headingFromWhichSource" serializeAs="String">
+                <value>Fix</value>
+            </setting>
+            <setting name="setAS_snapDistance" serializeAs="String">
+                <value>2</value>
+            </setting>
+            <setting name="setF_isWorkSwitchManualSections" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setAS_isAutoSteerAutoOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setDisplay_lineWidth" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setDisplay_panelSimLocation" serializeAs="String">
+                <value>309, 645</value>
+            </setting>
+            <setting name="setMenu_isCompassOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setMenu_isSpeedoOn" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setDisplay_colorDayFrame" serializeAs="String">
+                <value>210, 210, 230</value>
+            </setting>
+            <setting name="setDisplay_colorNightFrame" serializeAs="String">
+                <value>50, 50, 65</value>
+            </setting>
+            <setting name="setDisplay_colorSectionsDay" serializeAs="String">
+                <value>27, 151, 160</value>
+            </setting>
+            <setting name="setDisplay_colorFieldDay" serializeAs="String">
+                <value>130, 130, 150</value>
+            </setting>
+            <setting name="setDisplay_isDayMode" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setDisplay_colorFieldNight" serializeAs="String">
+                <value>60, 60, 60</value>
+            </setting>
+            <setting name="setDisplay_isAutoDayNight" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setDisplay_customColors" serializeAs="String">
+                <value>-127744,-12299010,-16190712,-1505559,-3621034,-16712458,-7330570,-1546731,-89942,-3289866,-2756674,-538377,-134768,-4457734,-1848839,-530985</value>
+            </setting>
+            <setting name="setDisplay_isTermsAccepted" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setGPS_isRTK" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setDisplay_isStartFullScreen" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setDisplay_isKeyboardOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setIMU_fusionWeight" serializeAs="String">
+                <value>0.162</value>
+            </setting>
+            <setting name="setIMU_rollFilter" serializeAs="String">
+                <value>0.1</value>
+            </setting>
+            <setting name="setAS_uTurnSmoothing" serializeAs="String">
+                <value>8</value>
+            </setting>
+            <setting name="setIMU_invertRoll" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setAS_ackerman" serializeAs="String">
+                <value>72</value>
+            </setting>
+            <setting name="setF_isWorkSwitchActiveLow" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setAS_Kp" serializeAs="String">
+                <value>40</value>
+            </setting>
+            <setting name="setDisplay_colorTextNight" serializeAs="String">
+                <value>230, 230, 230</value>
+            </setting>
+            <setting name="setDisplay_colorTextDay" serializeAs="String">
+                <value>10, 10, 20</value>
+            </setting>
+            <setting name="setTool_isTramOuter" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setTram_isTramOnBackBuffer" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setDisplay_camZoom" serializeAs="String">
+                <value>7.2</value>
+            </setting>
+            <setting name="setDisplay_colorVehicle" serializeAs="String">
+                <value>254, 254, 254</value>
+            </setting>
+            <setting name="setDisplay_vehicleOpacity" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="setDisplay_isVehicleImage" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setDisplay_isTextureOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setF_isSteerWorkSwitchManualSections" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setAS_guidanceLookAheadTime" serializeAs="String">
+                <value>1.5</value>
+            </setting>
+            <setting name="setIMU_isDualAsIMU" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setAS_sideHillComp" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setIMU_isReverseOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setGPS_isRTK_KillAutoSteer" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setColor_sec01" serializeAs="String">
+                <value>249, 22, 10</value>
+            </setting>
+            <setting name="setColor_sec02" serializeAs="String">
+                <value>68, 84, 254</value>
+            </setting>
+            <setting name="setColor_sec03" serializeAs="String">
+                <value>8, 243, 8</value>
+            </setting>
+            <setting name="setColor_sec04" serializeAs="String">
+                <value>233, 6, 233</value>
+            </setting>
+            <setting name="setColor_sec05" serializeAs="String">
+                <value>200, 191, 86</value>
+            </setting>
+            <setting name="setColor_sec06" serializeAs="String">
+                <value>0, 252, 246</value>
+            </setting>
+            <setting name="setColor_sec07" serializeAs="String">
+                <value>144, 36, 246</value>
+            </setting>
+            <setting name="setColor_sec08" serializeAs="String">
+                <value>232, 102, 21</value>
+            </setting>
+            <setting name="setColor_sec09" serializeAs="String">
+                <value>255, 160, 170</value>
+            </setting>
+            <setting name="setColor_sec10" serializeAs="String">
+                <value>205, 204, 246</value>
+            </setting>
+            <setting name="setColor_sec11" serializeAs="String">
+                <value>213, 239, 190</value>
+            </setting>
+            <setting name="setColor_sec12" serializeAs="String">
+                <value>247, 200, 247</value>
+            </setting>
+            <setting name="setColor_sec13" serializeAs="String">
+                <value>253, 241, 144</value>
+            </setting>
+            <setting name="setColor_sec14" serializeAs="String">
+                <value>187, 250, 250</value>
+            </setting>
+            <setting name="setColor_sec15" serializeAs="String">
+                <value>227, 201, 249</value>
+            </setting>
+            <setting name="setColor_sec16" serializeAs="String">
+                <value>247, 229, 215</value>
+            </setting>
+            <setting name="setColor_isMultiColorSections" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setBrand_TBrand" serializeAs="String">
+                <value>Fendt</value>
+            </setting>
+            <setting name="setBrand_HBrand" serializeAs="String">
+                <value>AGOpenGPS</value>
+            </setting>
+            <setting name="setBrand_WDBrand" serializeAs="String">
+                <value>AGOpenGPS</value>
+            </setting>
+            <setting name="setHeadland_isSectionControlled" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setRelay_pinConfig" serializeAs="String">
+                <value>0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</value>
+            </setting>
+            <setting name="setF_isSteerWorkSwitchEnabled" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setF_isRemoteWorkSystemOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setAS_ModeXTE" serializeAs="String">
+                <value>0.1</value>
+            </setting>
+            <setting name="setAS_ModeTime" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setVehicle_toolWidth" serializeAs="String">
+                <value>1.47</value>
+            </setting>
+            <setting name="setVehicle_numSections" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setSection_position1" serializeAs="String">
+                <value>-0.73500</value>
+            </setting>
+            <setting name="setSection_position2" serializeAs="String">
+                <value>0.73500</value>
+            </setting>
+            <setting name="setSection_position3" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position4" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position5" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position6" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position7" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position8" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position9" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position10" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position11" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position12" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position13" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position14" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position15" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position16" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setSection_position17" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="purePursuitIntegralGainAB" serializeAs="String">
+                <value>0.22</value>
+            </setting>
+            <setting name="setVehicle_antennaHeight" serializeAs="String">
+                <value>1.06</value>
+            </setting>
+            <setting name="setVehicle_toolLookAheadOn" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setTool_isToolTrailing" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setVehicle_toolOffset" serializeAs="String">
+                <value>-0.01</value>
+            </setting>
+            <setting name="setTool_isToolRearFixed" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setVehicle_antennaPivot" serializeAs="String">
+                <value>0.65</value>
+            </setting>
+            <setting name="setVehicle_wheelbase" serializeAs="String">
+                <value>2.2</value>
+            </setting>
+            <setting name="setVehicle_hitchLength" serializeAs="String">
+                <value>0.98</value>
+            </setting>
+            <setting name="setVehicle_toolLookAheadOff" serializeAs="String">
+                <value>0.5</value>
+            </setting>
+            <setting name="setVehicle_isPivotBehindAntenna" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setVehicle_isSteerAxleAhead" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setVehicle_vehicleName" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="setVehicle_slowSpeedCutoff" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setVehicle_goalPointLookAhead" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="setVehicle_maxSteerAngle" serializeAs="String">
+                <value>32</value>
+            </setting>
+            <setting name="set_youTurnExtensionLength" serializeAs="String">
+                <value>8</value>
+            </setting>
+            <setting name="setVehicle_minTurningRadius" serializeAs="String">
+                <value>4</value>
+            </setting>
+            <setting name="set_youTurnDistanceFromBoundary" serializeAs="String">
+                <value>2</value>
+            </setting>
+            <setting name="setVehicle_goalPointLookAheadMult" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="stanleyDistanceErrorGain" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="stanleyHeadingErrorGain" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setTool_isToolTBT" serializeAs="String">
+                <value>False</value>
+            </setting>
+            <setting name="setVehicle_vehicleType" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="set_youSkipWidth" serializeAs="String">
+                <value>1</value>
+            </setting>
+            <setting name="setTool_defaultSectionWidth" serializeAs="String">
+                <value>1.47</value>
+            </setting>
+            <setting name="setVehicle_toolOffDelay" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="setTool_isToolFront" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setVehicle_trackWidth" serializeAs="String">
+                <value>1.25</value>
+            </setting>
+            <setting name="stanleyIntegralGainAB" serializeAs="String">
+                <value>0.15</value>
+            </setting>
+            <setting name="setVehicle_panicStopSpeed" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="set_youTurnRadius" serializeAs="String">
+                <value>2.25</value>
+            </setting>
+            <setting name="setDisplay_brightnessSystem" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="setDisplay_isBrightnessOn" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setVehicle_goalPointLookAheadHold" serializeAs="String">
+                <value>3</value>
+            </setting>
+            <setting name="setTool_isSectionOffWhenOut" serializeAs="String">
+                <value>True</value>
+            </setting>
+            <setting name="setFeatures" serializeAs="Xml">
+                <value>
+                    <CFeatureSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+                        <isHeadlandOn>true</isHeadlandOn>
+                        <isTramOn>true</isTramOn>
+                        <isBoundaryOn>true</isBoundaryOn>
+                        <isBndContourOn>true</isBndContourOn>
+                        <isRecPathOn>true</isRecPathOn>
+                        <isABSmoothOn>true</isABSmoothOn>
+                        <isHideContourOn>true</isHideContourOn>
+                        <isWebCamOn>true</isWebCamOn>
+                        <isOffsetFixOn>true</isOffsetFixOn>
+                        <isAgIOOn>true</isAgIOOn>
+                        <isContourOn>true</isContourOn>
+                        <isYouTurnOn>true</isYouTurnOn>
+                        <isSteerModeOn>true</isSteerModeOn>
+                        <isManualSectionOn>true</isManualSectionOn>
+                        <isAutoSectionOn>true</isAutoSectionOn>
+                        <isCycleLinesOn>true</isCycleLinesOn>
+                        <isABLineOn>true</isABLineOn>
+                        <isCurveOn>true</isCurveOn>
+                        <isAutoSteerOn>true</isAutoSteerOn>
+                        <isUTurnOn>true</isUTurnOn>
+                        <isLateralOn>true</isLateralOn>
+                    </CFeatureSettings>
+                </value>
+            </setting>
+        </AgOpenGPS.Properties.Settings>
+    </userSettings>
+</configuration>

@@ -1,0 +1,9 @@
+2023-April-19 12:40:28 PM
+$FieldDir
+SaveAs
+$Offsets
+0,0
+$Convergence
+0
+StartFix
+52.6455751666667,-0.5998015
